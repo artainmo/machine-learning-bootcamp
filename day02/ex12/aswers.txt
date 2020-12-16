@@ -1,0 +1,1 @@
+1. Too high polynomial degree leads to overfitting, meaning it is too precise towards the training data.
