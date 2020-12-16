@@ -1,0 +1,5 @@
+1. Overfitting consists of having a ML model that is too precise towards training data making it less effective on non-training data
+2. Underfitting consists of having a ML model not precise enough for training  and thus non-training data
+3. Splitting data in training and test set is important to detect overfitting
+4. Training set will have way better cost function score than test set
+5. On both sets cost function score will be high
