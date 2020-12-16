@@ -1,3 +1,4 @@
+#Fit a machine learning model to a dataset: Theta parameters converge so minimal cost
 import numpy as np
 
 
