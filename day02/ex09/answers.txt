@@ -1,0 +1,4 @@
+1. Multivariate linear regression contains multiple theta arguments, multiple features can thus be used by the hypothesis to predict, which is practical for more complicated cases.
+2. Yes 2 otherwise it would be a univariate linear regression
+3. There is no technical maximum.
+4. No.
