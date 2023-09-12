@@ -1,5 +1,5 @@
-1. To be able to calculate through matrices/vectors correctly adin the constant part of linear equation
-2. To make them cost always positive
-3. The error margin of our  hypothesis compared to to be predicted values
-4. Toward smaller values, meaning less errors are made by hypothesis
+1. To be able to calculate through matrices/vectors correctly adding the constant part of linear equation.
+2. To make the cost always positive.
+3. The error margin of our hypothesis.
+4. Toward smaller values, meaning less errors are made by hypothesis.
 5. Because rows of first matrix has to equal columns second matrix.
